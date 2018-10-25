@@ -9,7 +9,7 @@ class App extends Component {
   render() {
 
     const person = {
-      avatar: 'https://gndx.co/wp-content/uploads/2017/05/oscar_barajas.jpg',
+      avatar: 'https://avatars3.githubusercontent.com/u/10554486?s=460&v=4',
       name: 'Oscar Barajas',
       profession: 'FrontEnd Developer',
       bio: '❤ Front end Developer - Growth Hacker at @CityDrive, CSS Lover, Geek & Blogger. Better known as The Grumpy Developer.',
